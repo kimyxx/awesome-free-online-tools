@@ -42,6 +42,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
 - **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
 - **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
+- **[JSON Lens](https://jsonlens.cn)**&#8203; — In-browser formatter, validator and tree/table viewer with error line locating; no uploads, no sign-up.
 
 ## Security & secrets
 
